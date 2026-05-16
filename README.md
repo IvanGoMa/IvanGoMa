@@ -1,4 +1,4 @@
-# Hi, I'm Ivan González Márquez | Backend Developer
+# Ivan González Márquez | Backend Developer
 
 🎯 Junior Backend Developer specializing in **Java & Spring Boot**  
 📍 Based in Barcelona, Spain  
@@ -11,9 +11,9 @@
 
 I am a junior backend developer focused on building clean, maintainable and scalable backend applications using Java and Spring Boot.
 
-I enjoy learning new technologies quickly, working in team environments, and taking ownership of my work.
+I enjoy learning , working in team environments, and taking ownership of my work.
 
-My main goal is to grow professionally as a backend engineer in a software development team.
+My main goal is to grow professionally as a backend engineer in a software development team and to keep improving my programming skills every day.
 
 ---
 
@@ -74,8 +74,6 @@ Backend for a small academic e-commerce application built with Spring Boot.
 ## Currently Learning
 
 - Spring Security
-- Microservices architecture
-- Docker
 - Clean Architecture principles
 - Advanced testing strategies
 
@@ -92,8 +90,8 @@ Backend for a small academic e-commerce application built with Spring Boot.
 
 ## Contact
 
-📧 Email: 99ivangm@gmail.com  
-🔗 LinkedIn: [Ivan González Márquez](https://www.linkedin.com/in/ivan-gonzalez-marquez-/)
+Email: 99ivangm@gmail.com  
+LinkedIn: [Ivan González Márquez](https://www.linkedin.com/in/ivan-gonzalez-marquez-/)
 
 ---
 
@@ -102,18 +100,3 @@ Backend for a small academic e-commerce application built with Spring Boot.
 Seeking a **Junior Backend Developer** position in Barcelona or remote, focused on Java and Spring Boot development.
 
 Always open to learning, collaborating and improving as a developer.
-
-<!--
-**IvanGoMa/IvanGoMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
