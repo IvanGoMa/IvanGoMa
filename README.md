@@ -23,6 +23,8 @@ Seeking a **Junior Backend Developer** position in Barcelona or remote, focused 
 
 Always open to learning, collaborating and improving as a developer.
 
+---
+
 ## Tech Stack
 
 ### Programming languages
