@@ -17,6 +17,12 @@ My main goal is to grow professionally as a backend engineer in a software devel
 
 ---
 
+## Objective
+
+Seeking a **Junior Backend Developer** position in Barcelona or remote, focused on Java and Spring Boot development.
+
+Always open to learning, collaborating and improving as a developer.
+
 ## Tech Stack
 
 ### Programming languages
@@ -81,14 +87,6 @@ Backend for a small academic e-commerce application built with Spring Boot.
 - Clean Architecture principles
 - Advanced testing strategies
 
----
-
-## Soft Skills
-
-- Fast learner
-- Teamwork
-- Autonomy
-- Problem solving mindset
 
 ---
 
@@ -96,11 +94,3 @@ Backend for a small academic e-commerce application built with Spring Boot.
 
 Email: 99ivangm@gmail.com  
 LinkedIn: [Ivan González Márquez](https://www.linkedin.com/in/ivan-gonzalez-marquez-/)
-
----
-
-## Objective
-
-Seeking a **Junior Backend Developer** position in Barcelona or remote, focused on Java and Spring Boot development.
-
-Always open to learning, collaborating and improving as a developer.
