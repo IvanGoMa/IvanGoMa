@@ -63,14 +63,6 @@ Backend for a small academic e-commerce application built with Spring Boot.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanGoMa&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGoMa&layout=compact&theme=github_dark)
-
----
-
 ## Currently Learning
 
 - Spring Security
