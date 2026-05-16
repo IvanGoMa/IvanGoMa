@@ -80,7 +80,7 @@ Backend for a small academic e-commerce application built with Spring Boot.
 - Database integration with MySQL
 - JPA/Hibernate ORM
 - API documentation with Swagger
-
+<!--
 ---
 
 ## Currently Learning
@@ -89,7 +89,7 @@ Backend for a small academic e-commerce application built with Spring Boot.
 - Clean Architecture principles
 - Advanced testing strategies
 
-
+-->
 ---
 
 ## Contact
